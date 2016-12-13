@@ -1,4 +1,4 @@
-from moreskeleton.path import *
+from moreskeleton.echo.path import *
 
 
 @App.json(model=Echo, request_method='GET')
